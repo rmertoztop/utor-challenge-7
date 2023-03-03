@@ -1,5 +1,3 @@
-ALTER DATABASE homework SET datestyle TO "ISO, MDY";
-
 --drop titles table
 DROP TABLE IF EXISTS titles CASCADE;
 --create the titles table
